@@ -14,7 +14,7 @@ I enjoy creating games, experimenting with new ideas, and learning how software 
 
 ## Currently Working On-
 
-🎮 RPG_GAME_in_PYTHON
+🎮 Tower Of Eternal Eclipse 
 
 A roguelite dungeon crawler featuring:
 
@@ -41,7 +41,7 @@ and much more.....!
 ## Goals
 - Finish my RPG project
 - Build more ambitious Python applications
-- Learn AI-ML and a few more python libraries 
+- Learn AI-ML and a few more python      libraries 
 - Contribute to open-source projects
 - Keep learning and improving
  
