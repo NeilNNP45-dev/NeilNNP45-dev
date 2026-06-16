@@ -18,32 +18,32 @@ I enjoy creating games, experimenting with new ideas, and learning how software 
 
 A roguelite dungeon crawler featuring:
 
--Multiple playable classes with each class having it's own special attacks
--Turn-based combat
--Boss battles
--Character progression
--Dungeon exploration
--Story/Lore
+- Multiple playable classes with each class having it's own special attacks
+- Turn-based combat
+- Boss battles
+- Character progression
+- Dungeon exploration
+- Story/Lore
 and much more.....!
 
 ## What I've Learned so far (as of June 2026)
--Python
--Git & GitHub
--A tiny bit of C++ and HTML
+- Python
+- Git & GitHub
+- A tiny bit of C++ and HTML
 
 ## Currently learning:-
--Object-Oriented Programming
--Software Design
--manim a Python library
--Game Development
--JSON file saving in python.
+- Object-Oriented Programming
+- Software Design
+- manim a Python library
+- Game Development
+- JSON file saving in python.
 
 ## Goals
--Finish my RPG project
--Build more ambitious Python applications
--Learn AI-ML and a few more python libraries 
--Contribute to open-source projects
--Keep learning and improving
+- Finish my RPG project
+- Build more ambitious Python applications
+- Learn AI-ML and a few more python libraries 
+- Contribute to open-source projects
+- Keep learning and improving
  
 ## Fun Fact 🤯
 
