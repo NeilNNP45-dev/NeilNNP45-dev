@@ -1,4 +1,4 @@
-## Hi 👋 I'm Neil a :-
+## Hi 👋 I'm Neil :-
 
 🚀 Space enthusiast
 
