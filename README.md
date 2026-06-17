@@ -24,6 +24,7 @@ A roguelite dungeon crawler featuring:
 - Character progression
 - Dungeon exploration
 - Story/Lore
+- Save and Load system using json file  saving
 and much more.....!
 
 ## What I've Learned so far (as of June 2026)
