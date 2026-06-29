@@ -1,4 +1,4 @@
-## Hi 👋 I'm Neil :-
+Hi 👋 I'm Neil
 
 🚀 Space enthusiast
 
@@ -6,50 +6,74 @@
 
 💻 Learning software development by building projects from scratch
 
-## About Me-
+---
 
-I'm a 17 year old student from Mumbai who got into programming in May 2026 and immediately decided to start building projects instead of just watching tutorials.
+About Me
 
-I enjoy creating games, experimenting with new ideas, and learning how software works under the hood. When I'm not coding, you'll probably find me thinking about what new things can I add in my projects or thinking about weird space-time paradoxes :)
+I'm a 17-year-old student from  who got into programming in May 2026 and almost immediately decided to start building projects instead of just watching tutorials.
 
-## Currently Working On-
+I enjoy creating games, experimenting with weird ideas, and understanding how software works under the hood. When I'm not coding, I'm probably thinking about what new feature I can add to my projects... or getting lost in strange space-time paradoxes :3
 
-🎮 Tower Of Eternal Eclipse 
+---
+
+Currently Working On
+
+🎮 Tower Of Eternal Eclipse
 
 A roguelite dungeon crawler featuring:
 
-- Multiple playable classes with each class having it's own special attacks
+- Multiple playable classes, each with unique abilities
 - Turn-based combat
 - Boss battles
 - Character progression
 - Dungeon exploration
-- Story/Lore
-- Save and Load system using json file  saving
-and much more.....!
+- Story / Lore
+- Save & Load system using JSON files
+- And much more...
 
-## What I've Learned so far (as of June 2026)
+🌌 2D Orbital Simulator
+
+A physics-based orbital simulator built with Python + Pygame featuring:
+
+- True n-body gravity simulation
+- Leapfrog integration for stable orbits
+- Camera controls and zoom
+- Orbit trails
+- Real-time simulation HUD
+
+---
+
+What I've Learned So Far (as of June 2026)
+
 - Python
 - Git & GitHub
+- Basic Pygame
 - A tiny bit of C++ and HTML
 
-## Currently learning:-
-- Object-Oriented Programming
-- Software Design
-- manim a Python library
-- Game Development
-- JSON file saving in python.
+---
 
-## Goals
+Currently Learning
+
+- Software Design
+- Game Development
+- Manim (Python animation library)
+- Better physics / simulation programming
+
+---
+
+Goals
+
 - Finish my RPG project
+- Keep improving my simulator projects
 - Build more ambitious Python applications
-- Learn AI-ML and a few more python      libraries 
+- Learn AI / ML
 - Contribute to open-source projects
 - Keep learning and improving
- 
-## Fun Fact 🤯
 
-I started coding in May 2026 and somehow decided that building an RPG was a sensible beginner project. :3
+---
 
+Fun Fact 🤯
 
+I started coding in May 2026 and somehow decided that making an RPG and a physics simulator were sensible beginner projects.
 
-
+No regrets :3
