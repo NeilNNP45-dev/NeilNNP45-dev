@@ -10,70 +10,89 @@ Hi 👋 I'm Neil
 
 About Me
 
-I'm a 17-year-old student from  who got into programming in May 2026 and almost immediately decided to start building projects instead of just watching tutorials.
+I'm a 17-year-old student who got into programming in May 2026 and almost immediately decided to start building projects instead of just watching tutorials.
 
 I enjoy creating games, experimenting with weird ideas, and understanding how software works under the hood. When I'm not coding, I'm probably thinking about what new feature I can add to my projects... or getting lost in strange space-time paradoxes :3
 
+So far I've released two personal projects while continuing to learn something new every day.
+
 ---
 
-Currently Working On
+Current Projects
 
 🎮 Tower Of Eternal Eclipse
 
-A roguelite dungeon crawler featuring:
+A turn-based roguelite dungeon crawler (Alpha Released)
 
-- Multiple playable classes, each with unique abilities
+Features include:
+
+- Multiple playable classes with unique abilities
 - Turn-based combat
 - Boss battles
 - Character progression
 - Dungeon exploration
-- Story / Lore
-- Save & Load system using JSON files
-- And much more...
-
-🌌 2D Orbital Simulator
-
-A physics-based orbital simulator built with Python + Pygame featuring:
-
-- True n-body gravity simulation
-- Leapfrog integration for stable orbits
-- Camera controls and zoom
-- Orbit trails
-- Real-time simulation HUD
+- Story & lore
+- Save & Load system using JSON
+- Ongoing development with planned future content
 
 ---
 
-What I've Learned So Far (as of June 2026)
+🌌 2D Orbital Simulator
+
+A physics-based simulation built with Python + Pygame (v1.0.0 Released)
+
+Features include:
+
+- True n-body gravity simulation
+- Leapfrog integration for stable orbits
+- Camera pan & zoom
+- Orbit trails
+- Adjustable simulation speed
+- Pause / Resume controls
+- Interactive body spawning
+- Real-time HUD
+- Notification system
+
+---
+
+What I've Learned So Far (July 2026)
 
 - Python
 - Git & GitHub
-- Basic Pygame
-- A tiny bit of C++ and HTML
+- Pygame
+- Object-Oriented Programming
+- Physics simulation
+- Numerical integration (Leapfrog Integration)
+- Software design & project organization
+- Basic C++
+- Basic HTML
 
 ---
 
 Currently Learning
 
+- Data Structures & Algorithms (Python)
 - Software Design
 - Game Development
-- Manim (Python animation library)
 - Better physics / simulation programming
 
 ---
 
 Goals
 
-- Finish my RPG project
-- Keep improving my simulator projects
-- Build more ambitious Python applications
+- Continue developing Tower Of Eternal Eclipse
+- Build larger simulation projects
 - Learn AI / ML
 - Contribute to open-source projects
-- Keep learning and improving
+- Keep building ambitious projects from scratch
+- Never stop learning
 
 ---
 
 Fun Fact 🤯
 
-I started coding in May 2026 and somehow decided that making an RPG and a physics simulator were sensible beginner projects.
+I started coding in May 2026 and somehow decided that making a roguelite RPG and a physics simulator were sensible beginner projects.
+
+Turns out... they actually were.
 
 No regrets :3
