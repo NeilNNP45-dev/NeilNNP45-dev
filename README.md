@@ -240,18 +240,16 @@ Things that keep my brain powered:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NeilNNP45-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="./profile/stats.svg" alt="Neil's GitHub Stats">
+<br><br>
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NeilNNP45-dev&theme=tokyonight&hide_border=true" alt="Neil's GitHub Streak">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NeilNNP45-dev&theme=tokyonight&hide_border=true" />
+<br><br>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeilNNP45-dev&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="./profile/top-langs.svg" alt="Neil's Most Used Languages">
 
 </div>
-
 ---
 
 # 🐍 Contribution Snake
