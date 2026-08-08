@@ -4,7 +4,7 @@
 
 # 🌌 Welcome to Neil's Digital Observatory ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;AI%2FML+Explorer+%F0%9F%A4%96;Space+%26+Simulation+Enthusiast+%F0%9F%8C%8C;Game+Developer+%F0%9F%8E%AE;Building+tiny+universes+one+commit+at+a+time+%E2%9C%A8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;AI%2FML+Explorer+%F0%9F%A4%96;Space+%26+Simulation+Enthusiast+%F0%9F%8C%8C;Game+Developer+%F0%9F%8E%AE;Tiny+universes+one+commit+at+a+time+%E2%9C%A8" />
 
 <br>
 
