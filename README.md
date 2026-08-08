@@ -258,11 +258,9 @@ Things that keep my brain powered:
 
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/NeilNNP45-dev/NeilNNP45-dev/output/github-contribution-grid-snake.svg)
+<img src="https://neilnnp45-dev.github.io/NeilNNP45-dev/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
-
----
 
 <div align="center">
 
