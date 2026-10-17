@@ -21,7 +21,7 @@
 
 Hello! I'm Neil 👋
 
-I'm a 17-year-old developer who started programming in **May 2026** and immediately decided that building things sounded more fun than only watching tutorials.
+I'm a 18-year-old developer who started programming in **May 2026** and immediately decided that building things sounded more fun than only watching tutorials.
 
 Instead of making tiny practice scripts forever, I started creating complete projects:
 
