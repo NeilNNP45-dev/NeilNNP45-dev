@@ -44,9 +44,10 @@ Basically...
 | Project | Status | Mission |
 |---|---|---|
 | 🌌 COSMOS | 🟢 Active | Creating a computational universe |
-| 🌙 Luna | 🟢 Learning | Exploring AI through game data |
+| 🌙 Luna | 🟢 Learning | Exploring ML through game data |
 | 🌱 Aster | 🟢 Developing | Building a personal command center |
 | ⚔️ Tower Of Eternal Eclipse | 🟡 Expanding | Growing a fantasy world |
+| 🌱 ECHO | 🟢 Developing | A reinforced learning lab to get into AI |
 | ⏰ ClockBound | ✅ Completed | GMTK Game Jam 2026 adventure |
 
 ---
